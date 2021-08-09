@@ -1,4 +1,4 @@
-# XML Reader (INST 326 - Individual Project)
+# XML Reader
 
 ### Introduction
 - This project is part of an exercise for the "Object-Oriented Programming for Information Science" course (INST 326).
