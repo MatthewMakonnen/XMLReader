@@ -15,3 +15,6 @@ Steps of running the program (_xml_reader.py_):
 2. Open and run the downloaded file through the Command Prompt (CMD).
 3. When it lists all the available articles on the Slate Magazine site, enter the article number of the article you want to read.
 4. After you receive the article-specific URL, enter yes to continue searching for more articles or no to end the program.
+
+
+![alt text](https://fm.hunter.cuny.edu/journalism/wp-content/uploads/Slate-logo.png)
