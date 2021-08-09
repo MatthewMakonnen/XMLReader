@@ -17,4 +17,4 @@ Steps of running the program (_xml_reader.py_):
 4. After you receive the article-specific URL, enter yes to continue searching for more articles or no to end the program.
 
 
-![alt text](https://fm.hunter.cuny.edu/journalism/wp-content/uploads/Slate-logo.png)
+![alt text](https://juliaquinn.com/WP/wp-content/uploads/2020/11/SlateM.png)
