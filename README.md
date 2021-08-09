@@ -18,3 +18,9 @@ Steps of running the program (_xml_reader.py_):
 
 
 ![alt text](https://pbs.twimg.com/profile_images/998978256077402112/OMvHnltG_400x400.jpg) ![alt text](https://slate.com/media/sites/slate-com/icon.400x400.png)
+
+### References
+
+INST 326 object-oriented programming. (n.d.). https://umd-ischool-inst326.github.io/inst326-public/index.html. 
+A preeminent public research university. University of Maryland. (n.d.). https://www.umd.edu/. 
+Slate. (n.d.). Politics, business, technology, and the arts. Slate Magazine. https://slate.com/. 
