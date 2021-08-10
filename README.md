@@ -21,7 +21,7 @@ Steps of running the program (_xml_reader.py_):
 4. After you receive the article-specific URL, enter yes to continue searching for more articles or no to end the program.
 
 <p align="center">
-  <img width="500" height="500" src="https://fm.hunter.cuny.edu/journalism/wp-content/uploads/Slate-logo.png">
+  <img width="500" height="300" src="https://fm.hunter.cuny.edu/journalism/wp-content/uploads/Slate-logo.png">
 </p>
 
 ### References
