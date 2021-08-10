@@ -21,7 +21,7 @@ Steps of running the program (_xml_reader.py_):
 4. After you receive the article-specific URL, enter yes to continue searching for more articles or no to end the program.
 
 <p align="center">
-  <img width="1024" height="500" src="https://www.fsp.org/wp-content/uploads/2017/09/slate.jpeg">
+  <img width="500" height="500" src="https://www.fsp.org/wp-content/uploads/2017/09/slate.jpeg">
 </p>
 
 ### References
