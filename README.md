@@ -20,8 +20,9 @@ Steps of running the program (_xml_reader.py_):
 3. When it lists all the available articles on the Slate Magazine site, enter the article number of the article you want to read.
 4. After you receive the article-specific URL, enter yes to continue searching for more articles or no to end the program.
 
-
-![alt text](https://slate.com/media/sites/slate-com/icon.400x400.png)
+<p align="center">
+  <img width="1024" height="500" src="https://www.fsp.org/wp-content/uploads/2017/09/slate.jpeg">
+</p>
 
 ### References
 
